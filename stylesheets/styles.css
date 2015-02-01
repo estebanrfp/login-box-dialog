@@ -52,7 +52,7 @@ h2 {
 	background:  -o-linear-gradient(top, #00c6ff, #018eb6);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#00c6ff', EndColorStr='#018eb6');
 	text-align:center;
-	font-size:16px;
+	font-size:1.2em;
 	color:#fff;
 	text-transform:uppercase;
 }
