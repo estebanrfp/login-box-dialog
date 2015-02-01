@@ -46,7 +46,7 @@ h2 {
 	margin-bottom:20px;
 	margin:0 auto;
 	padding:10px;
-	border-radius:2px;
+	/*border-radius:2px;*/
 	background: -moz-linear-gradient(center top, #00c6ff, #018eb6);
     background: -webkit-gradient(linear, left top, left bottom, from(#00c6ff), to(#018eb6));
 	background:  -o-linear-gradient(top, #00c6ff, #018eb6);
