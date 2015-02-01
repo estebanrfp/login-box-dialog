@@ -47,10 +47,11 @@ h2 {
 	margin:0 auto;
 	padding:10px;
 	/*border-radius:2px;*/
-	background: -moz-linear-gradient(center top, #00c6ff, #018eb6);
+/*	background: -moz-linear-gradient(center top, #00c6ff, #018eb6);
     background: -webkit-gradient(linear, left top, left bottom, from(#00c6ff), to(#018eb6));
-	background:  -o-linear-gradient(top, #00c6ff, #018eb6);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#00c6ff', EndColorStr='#018eb6');
+	background:  -o-linear-gradient(top, #00c6ff, #018eb6);*/
+	background: orange;
+    /*filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#00c6ff', EndColorStr='#018eb6');*/
 	text-align:center;
 	font-size:1.2em;
 	color:#fff;
