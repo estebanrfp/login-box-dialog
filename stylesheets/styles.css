@@ -132,8 +132,8 @@ form.signin input::-webkit-input-placeholder { color:#bbb; text-shadow:0 0 2px #
 /*	border-color:#000; 
 	border-width:1px;
 	border-radius:2px 2px 2px 2px;*/
-	-moz-border-radius: 2px;
-    -webkit-border-radius: 2px;
+/*	-moz-border-radius: 2px;
+    -webkit-border-radius: 2px;*/
 	color:#333;
 	cursor:pointer;
 	display:inline-block;
