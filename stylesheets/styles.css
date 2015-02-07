@@ -103,9 +103,6 @@ form.signin p, form.signin span {
 form.signin .textbox input { 
 	background:#666666; 
 	color:#fff; 
-/*	border-radius: 3px 3px 3px 3px;
-	-moz-border-radius: 3px;
-    -webkit-border-radius: 3px;*/
 	font:13px Arial, Helvetica, sans-serif;
 	padding:6px 6px 4px;
 	width:200px;
