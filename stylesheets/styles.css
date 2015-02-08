@@ -38,7 +38,7 @@ h2 {
 
 #content {	float: left; width: 100%;}
 
-.post { margin: 0 auto; padding-bottom: 50px; float: left; width: 960px; }
+.post { margin: 0 auto; padding-bottom: 50px; float: left; width: 100%; }
 
 .btn-sign {
 	width:140px;
